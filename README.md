@@ -1,5 +1,5 @@
 # ScamShield-AI
-A Fake News Detector that also predicts Financial Scams. 
+A Fake News Detector that also predicts Financial Scams. It is a machine learning project that uses streamlit, logistic regression and TF-IDF. Fake and True Datasets have been added. 
 <br>
 USER INTERFACE:
 <img width="1043" height="818" alt="image" src="https://github.com/user-attachments/assets/095ce063-de70-480e-9a0c-ec9f5282834e" />
